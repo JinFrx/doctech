@@ -8,7 +8,5 @@ Le fichier "doc_navmerinput.pdf" contient la documentation sur le développement
 
 Lien du template Latex : <https://github.com/Wandmalfarbe/pandoc-latex-template>
 
-:warning:
-
-Les fichiers PDF sont volumineux.
+:warning: Les fichiers PDF sont volumineux.
 Il est préférable de télécharger les documents pour consulter.
